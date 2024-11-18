@@ -1,8 +1,6 @@
-<img src='https://media.giphy.com/media/QpzYFR21xGud2kJDVz/giphy.gif?cid=790b76111u7pfrmzti9yqstp1fj07ajyc55z1d9pd2ju665k&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 <h3 align="left">Hi 👋! My name is Lutfy and I'm a Beginner Programmer and Designer</h3>
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/57/bf/68/57bf6836a8ed52eb1c848efa6ce137e0.jpg"  />
-
+<img align="right" src="https://media.giphy.com/media/PqbDi7X2Jp6rqEkORu/giphy.gif?cid=790b7611iy23deqs4rmt2ih2vr7grlqaphxn9ylrj9xxq386&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <div align="left">
   <a href="https://www.instagram.com/qua_lutfyx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -12,6 +10,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  <img src='https://media.giphy.com/media/QpzYFR21xGud2kJDVz/giphy.gif?cid=790b76111u7pfrmzti9yqstp1fj07ajyc55z1d9pd2ju665k&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 </div>
 
 ###
