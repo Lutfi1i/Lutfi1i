@@ -1,9 +1,7 @@
-<h3 align="left">Hi 👋! My name is Lutfy and I'm a Beginner Programmer and Designer, from Indonesia</h3>
+<img src='https://media.giphy.com/media/QpzYFR21xGud2kJDVz/giphy.gif?cid=790b76111u7pfrmzti9yqstp1fj07ajyc55z1d9pd2ju665k&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+<h3 align="left">Hi 👋! My name is Lutfy and I'm a Beginner Programmer and Designer</h3>
 
-###
-<img align="right" height="150" src="https://64.media.tumblr.com/f43806f097f2cfab9e1d0b25b29a42af/303ecb25e4a05347-5b/s1280x1920/a961703b6b8c6877cb253c0d2003cf791d240c87.gifv"  />
-
-###
+<img align="right" height="150" src="https://i.pinimg.com/736x/57/bf/68/57bf6836a8ed52eb1c848efa6ce137e0.jpg"  />
 
 <div align="left">
   <a href="https://www.instagram.com/qua_lutfyx/" target="_blank">
@@ -17,7 +15,6 @@
 </div>
 
 ###
-
 
 ###
 
