@@ -8,21 +8,26 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/236x/0c/da/e2/0cdae2ae7759145205213809e4955bda.jpg" alt="R65 QMK/VIA version" width="600"/>
+        <img src="https://i.pinimg.com/736x/ee/4f/dc/ee4fdcd17aa3dfebcef9168c2cdffee2.jpg" alt="Rukiailvy1" width="600"/>
       </a>
       <br/>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/474x/65/a6/b3/65a6b3e844b9801b3e72a6e83c8c61fd.jpg" alt="R65 SRGB version" width="600"/>
+        <img src="https://i.pinimg.com/236x/5a/46/27/5a4627e148fb3f35835a43c94adcfb3e.jpg" alt="Rukiailvy2" width="600"/>
       </a>
       <br/>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/236x/8e/85/30/8e8530bfe8971e3e45e3dc907c865ee1.jpg" alt="R65 Vial/VialRGB version" width="600"/>
+        <img src="https://i.pinimg.com/736x/b7/1a/27/b71a276f6b4627ab7451cef7949ef0e8.jpg" alt="Rukiailvy3" width="600"/>
       </a>
       <br/>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KazyaVX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KazyaVX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
