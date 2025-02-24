@@ -1,11 +1,24 @@
-<img src="https://github.com/yuna0x0/yuna0x0/raw/master/kita-ikuyo-rap.webp" />
-```                                                            
-                                                     ( \   / ) 
-                                                     (˶ ˘ ᵕ ˘ ) 
-                                                    c( っ    っ
-```                                                            
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="https://media1.tenor.com/m/1JuAyubK6zoAAAAC/bocchi-the-rock-hitori-gotoh.gif">
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KazyaVX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KazyaVX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Hi, I'm <a href="#">Lutfy</a>!</h1>
+<p align="center">
+  </a>
+</p>
+<h3 align="center">Welcome to my GitHub profile :3</h3>
+
+<p align="center">❄️ I'm currently Student From SMK Taruna Bhakti Depok.❄️</p>
+
+<p align="center">
+  <strong><a href="https://x.com/LutfyNoir">Twitter</a></strong> |
+  <strong><a href="https://discordapp.com/users/kazylutfyx">Discord</a></strong> |
+</p>
+
+<p align="center">
+  <a href="https://github.com/LutfyVX"><img src="https://github-readme-stats.vercel.app/api?username=LutfyVX&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+</p>
+
+
