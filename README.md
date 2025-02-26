@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lutfyvx.github.io/AmLutfy/">
+  <a href="https://lutfyvx.github.io/Simple-Design/" target="_blank">
     <img src="https://media1.tenor.com/m/1JuAyubK6zoAAAAC/bocchi-the-rock-hitori-gotoh.gif">
   </a>
 </p>
