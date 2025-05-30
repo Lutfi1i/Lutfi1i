@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ryuki-02.vercel.app/" target="_blank">
-    <img src="https://media1.tenor.com/m/1JuAyubK6zoAAAAC/bocchi-the-rock-hitori-gotoh.gif">
+    <img src="https://media1.tenor.com/m/qeZTQpK9fCIAAAAd/bocchi-bocchi-the-rock.gif">
   </a>
 </p>
 
