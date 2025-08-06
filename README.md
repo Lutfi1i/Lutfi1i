@@ -27,18 +27,6 @@
   </a>
 </div>
 
-<div>
-<p align="center">
-  <a href="https://x.com/LutfyNoir">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://discordapp.com/users/kazylutfyx">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-</div>
-
-
 <p align="center">
   <a href="https://github.com/LutfyVX">
     <img src="https://github-readme-stats.vercel.app/api?username=LutfyVX&hide_border=true&show_icons=true" alt="Lutfy's GitHub Stats">
