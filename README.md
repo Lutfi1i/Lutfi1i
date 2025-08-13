@@ -29,10 +29,10 @@
 
 <p align="center">
   <a href="https://github.com/LutfyVX">
-    <img src="https://github-readme-stats.vercel.app/api?username=LutfyVX&hide_border=true&show_icons=true" alt="Lutfy's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lutfi1i&hide_border=true&show_icons=true" alt="Lutfy's GitHub Stats">
   </a>
   <a href="https://github.com/LutfyVX">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LutfyVX&hide_border=true&theme=iceberg" alt="Lutfy's GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lutfi1i&hide_border=true&theme=iceberg" alt="Lutfy's GitHub Streak">
   </a>
 </p>
 
