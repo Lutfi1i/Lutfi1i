@@ -1,41 +1,56 @@
 <p align="center">
   <a href="https://ryuki-02.vercel.app/" target="_blank">
-    <img src="https://media1.tenor.com/m/hEdKdZhAWF4AAAAC/persona-5.gif">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVranljaGxjYjJqNWM0cHJjYTJqNWdsenFhcnM1ajFha2hzZTF0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" width="400"/>
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="#">Lutfy</a>!</h1>
 <p align="center">
-  </a>
+  <i>"Once you enter the void, there's no turning back."</i>
 </p>
-<h3 align="center">Welcome to my GitHub profile 👋</h3>
-<p align="center">📌 Currently exploring Node.js, React and TypeScript.</p>
-<p align="center">❄️ I'm currently Student From SMK Taruna Bhakti Depok.❄️</p>
 
+<h2 align="center">❄️ I'm <strong>Lutfi</strong></h2>
 
-<div align="center">
-  <h2>Design App</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-  </a>
-</div>
+<p align="center">
+  🔭 Exploring Node.js, React, TypeScript <br/>
+  🎓 Student at SMK Taruna Bhakti Depok  
+  ✨ Crafting UI like stardust.
+</p>
 
-<div align="center">
-  <h2>What I Use</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,ts,tailwind,html,css,js" />
-  </a>
-</div>
+---
+
+<br/>
+
+## 🪐 Technologies in My Orbit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=astro,nextjs,react,ts,tailwind,html,css,js" />
+</p>
+
+---
+
+## 🎨 Cosmic Design Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+</p>
+
+---
+
+<br/>
+
+## 📊 Space Metrics
 
 <p align="center">
   <a href="https://github.com/LutfyVX">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lutfi1i&hide_border=true&show_icons=true" alt="Lutfy's GitHub Stats">
-  </a>
-  <a href="https://github.com/LutfyVX">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lutfi1i&hide_border=true&theme=iceberg" alt="Lutfy's GitHub Streak">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Lutfi1i&hide_border=true&theme=iceberg" alt="Lutfy's GitHub Streak"/>
   </a>
 </p>
 
+---
 
+<br/>
 
-
+<p align="center">
+  <i>“Do not go gentle into that good night — Rage, rage against the dying of the light.”</i><br/>
+  <small>– Interstellar</small>
+</p>
