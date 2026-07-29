@@ -1,4 +1,4 @@
-<img align="left" width=80% height=50% src="https://res.cloudinary.com/dfx5bwoex/image/upload/v1785340953/IMG_20260729_20391750_upscayl_5x_digital-art-4x_uiqsyg.jpg" />
+### <img align="left" width=50% height=20% src="https://res.cloudinary.com/dfx5bwoex/image/upload/v1785340953/IMG_20260729_20391750_upscayl_5x_digital-art-4x_uiqsyg.jpg" />
 
 ### Hi, I'm Lutfi 👋
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge\&logo=windows11\&logoColor=white)
