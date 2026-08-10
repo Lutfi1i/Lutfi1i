@@ -62,6 +62,8 @@ A programmer who likes to try new things and He is very curious, and sometimes t
 ![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?style=for-the-badge&logo=affinitystudio&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=fff)
 
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31iqlxausz4oscdbph7npowbcn7e&count=1)](https://spotify-recently-played-readme.vercel.app/)
+
 ### <h1> Nah i'd Adapt </h1>
 
 <img align="left" width=80% height=50% src="https://media1.tenor.com/m/WuP3_fCE-ekAAAAC/mahoraga%27s-adaptation-mahoraga%27s-wheel.gif" />
